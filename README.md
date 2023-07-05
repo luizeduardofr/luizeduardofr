@@ -30,3 +30,7 @@
 ##
 
 Apaixonado por Tecnologia, novos aprendizados e desafios.
+
+## 
+
+![Snake animation](https://github.com/luizeduardofr/luizeduardofr/blob/output/github-contribution-grid-snake.svg)
